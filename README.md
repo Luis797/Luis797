@@ -13,11 +13,9 @@ I'm experienced with:
 
 🎮 Aumented reality(AR), Virtual reality(VR), Metaverse
 
-🎮 3D environment design, level design, concept design, character design
-
 🎮 C#, C++, Java, JavaScript, HTML5, .NET
 
-🎮 Unity, Unreal Engine, Godot, Phaser
+🎮 Unity, Unreal Engine, Phaser
 
 🎮 Git/ GitHub/ Plastic SCM
 
